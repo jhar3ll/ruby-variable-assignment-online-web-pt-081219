@@ -2,7 +2,7 @@
  # give it the value of the string "Hello World"
 
 def variable
-  greeting = “Hello World"
+  greeting = "Hello World"
 end
   
 puts greeting
