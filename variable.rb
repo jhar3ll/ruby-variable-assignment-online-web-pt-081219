@@ -5,5 +5,4 @@ def variable
   greeting = “Hello World"
 end
   
-  return greeting
-end
+puts greeting
