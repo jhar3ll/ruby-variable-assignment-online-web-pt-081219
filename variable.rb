@@ -2,6 +2,6 @@
  # give it the value of the string "Hello World"
 
 def variable
-  greeting = “hello world"
+  greeting = “Hello World"
   
 end
